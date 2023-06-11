@@ -1,0 +1,32 @@
+header{
+background-color:#051726;
+display: flex;
+justify-content: center;
+}
+
+
+
+.logo{
+    height: 35vh;
+}
+
+.color-mix{
+    height: 10vh;
+    background: rgb(5,23,32);
+background: linear-gradient(180deg, rgba(5,23,32,1) 45%, rgba(1,2,43,1) 76%);
+}
+
+h1, h2, p{
+    color: #06477b;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.intro{
+    display: flex;
+    flex-direction: row;
+}
+
+.intro-text{
+ padding: 1rem;
+}
